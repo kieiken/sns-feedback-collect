@@ -1,0 +1,4 @@
+interface:
+  display_name: "SNS Feedback Collect"
+  short_description: "SNS投稿90日計画の反響取得・保存・Hao式改善診断"
+  default_prompt: "Use $sns-feedback-collect to collect the latest SNS reactions and recommend adjustments."
